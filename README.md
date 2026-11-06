@@ -1,7 +1,5 @@
 # 📊 Sales Performance Analysis & Interactive Dashboard
 
-video link:-https://drive.google.com/file/d/1qfeRNIjkZ5xnrzTaUrA1cpXNjV0uRgBp/view?usp=drivesdk
-
 > **Turning raw sales data into meaningful business insights.**
 
 A Microsoft Excel-based business analysis project designed to transform raw sales records into meaningful insights through customer analysis, regional and product performance summaries, descriptive statistics, regression analysis, what-if analysis, and an interactive dashboard.
